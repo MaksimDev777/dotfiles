@@ -13,6 +13,8 @@ cd ~/code/dotfiles
 | Tool | Config       |
 | ---- | ------------ |
 | tmux | `.tmux.conf` |
+| nvim | `.config/nvim/` |
+| zsh | `.zshrc`, `.p10k.zsh` |
 
 ## How it works
 

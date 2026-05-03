@@ -1,7 +1,5 @@
 # dotfiles
 
-Where I pretend I have my life together, one config file at a time.
-
 ## Setup
 
 ```sh
@@ -12,8 +10,8 @@ cd ~/code/dotfiles
 
 ## What's inside
 
-| Tool | Config |
-|------|--------|
+| Tool | Config       |
+| ---- | ------------ |
 | tmux | `.tmux.conf` |
 
 ## How it works
